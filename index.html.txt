@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student project UT 2023</title>
+  <!-- You can add your own CSS or link to external stylesheets here -->
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Student project UT 2023</h1>
+  </header>
+  <main>
+    <section>
+      <h2>About the Project</h2>
+      <p>
+        Write a brief introduction to your project, its purpose, and its results.
+      </p>
+    </section>
+    <!-- Add more sections for different parts of your project -->
+  </main>
+  <footer>
+    <p>Mario Käära</p>
+  </footer>
+  <!-- You can add your own JavaScript or link to external scripts here -->
+</body>
+</html>
