@@ -3,27 +3,23 @@ Backround:
 Occupational accidents are a major global concern which results in significant human
 and economic losses. In Estonia, over 4, 000 work-related accidents are recorded annually,
 and 428 fatalities were reported between 2001 and 2021. For example, work-related
-accidents led to a loss of 141, 000 workdays and approximately e5.3 million in 2021.
+accidents led to a loss of 141, 000 workdays and approximately 5.3 million euros in 2021.
 Several studies across different countries have recently proposed automated data analytic
 tools and machine learning based models to understand occupational hazards and predict
 the likelihood and severity of accidents. These applications can identify high-risk
 workers and ensure robust safety management systems across various industries, such
 as construction and manufacturing. However, these proposed models are not directly
-applicable to Estonia, and no specific tools can handle the local settings. Through this
-Thesis, we aim to develop automated models based on machine learning techniques to
-predict the severity of occupational accidents in Estonia. We also identify critical factors
-for different industries contributing to these accidents. Our dataset consists of 82, 641
+applicable to Estonia, and no specific tools can handle the local settings.
+I aim to develop automated models based on machine learning techniques to
+predict the severity of occupational accidents in Estonia. Raw dataset consists of 82, 641
 work-related accidents, featuring 37 variables, and spans the period from 2002 to 2022.
-The Thesis demonstrates that the best-performing models, including Support Vector
-Machine and Logistic Regression, can predict accident severity and identify crucial
-factors for targeted prevention strategies. The primary outcomes include critical insights
-into the important factors and the development of tailored machine learning models for
-occupations in specific economic sectors. Therefore, we propose accurate and efficient
-automated tools that can handle the inherent data challenges and ensure the significance
-of targeted modelling in accident prevention. The Thesis illustrates the potential of
-understanding the data patterns, developing specific data analytic tools and machine
-learning algorithms to improve decision-making in workplace safety and developing
-cost-effective prevention strategies.
+The primary outcomes of this project include critical insights into the important factors and the development
+of tailored machine learning models for occupations in specific economic sectors.
+Therefore, I propose accurate and efficient automated tools that can handle the inherent
+data challenges and ensure the significance of targeted modelling in accident prevention.
+ProtectWise project illustrates the potential of understanding the data patterns, developing specific
+data analytic tools and machine learning algorithms to improve decision-making in workplace
+safety and developing cost-effective prevention strategies.
 
 
 
