@@ -27,7 +27,7 @@ cost-effective prevention strategies.
 
 
 
-ProtectWise:
+ProtectWise project execution steps:
 
 For raw dataset preprocessing use the files 'Raw data preprocessing.ipynb' and 'data.pickle'.
 Download file '2002-2022_encoded_csv.csv' from here https://www.dropbox.com/s/le2ixwygx9kq8yn/2002-2022_encoded_csv.csv?dl=0
@@ -35,13 +35,12 @@ and 'data.pickle' from here https://www.dropbox.com/s/obtcbv8etymvu1l/data.pickl
 You also need the dataset of occupation codes and business activities. Occupation codes dataset is named 'ametikood.csv'
 and business activities dataset is named as 'emtak.csv'. Both you can find from Code folder here.
 
-If you have runned the 'Raw data preprocessing.ipynb' you get a 'data.csv'
-as a preprocessed dataset to be used for training purposes.
+If you have runned the 'Raw data preprocessing.ipynb' you get a 'data.csv' as a preprocessed dataset to be used for training purposes.
 
-You can use 'data.csv' to train models on the subsets of the data. Subset means that there will be occupational
+You can use 'data.csv' to train models on the subsets of the data. Subset means that in the set there will be occupational
 accidents only about specific occupations class in the specific economic sector (for example, only the accidents
 of elementary workers in construction sector).
-To divide dataset into subsets and train every subset that passes the margin of error test (on the test set target)
+To divide dataset into subsets and train every subset that passes the margin of error test (on the test set target size)
 you can use the file named 'Training combinations.ipynb'
 There you can choose desired resampling method (ROS is preferred) or the method for preselecting features
 (all features or only statistically significant features using Kendall's tau and chi-squared correlations).
