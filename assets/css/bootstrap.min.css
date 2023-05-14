@@ -41,8 +41,13 @@
     box-sizing: border-box
 }
 
-.white-link {
+.source-files a {
     color: white;
+    text-decoration: none;
+}
+
+.source-files a:hover {
+    text-decoration: underline;
 }
 
 html {
