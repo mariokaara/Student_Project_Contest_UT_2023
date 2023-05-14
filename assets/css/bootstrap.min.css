@@ -41,15 +41,6 @@
     box-sizing: border-box
 }
 
-.source-files a {
-    color: white;
-    text-decoration:rgba(255, 255, 255, .85);
-}
-
-.source-files a:hover {
-    text-decoration: underline;
-}
-
 html {
     font-family: sans-serif;
     line-height: 1.15;
