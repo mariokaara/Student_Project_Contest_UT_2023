@@ -122,7 +122,7 @@ html[xmlns] .flexslider .slides {
   height: 40px;
   line-height: 40px;
   margin: -20px 0 0;
-  position: absolute;
+  position: relative;
   top: 50%;
   z-index: 10;
   overflow: hidden;
@@ -279,3 +279,11 @@ html[xmlns] .flexslider .slides {
     right: 10px;
   }
 }
+.flexslider .flex-control-nav {
+    text-align: center;
+  }
+  
+  .flexslider .flex-control-nav li {
+    display: inline-block;
+    margin: 0 5px;
+  }
