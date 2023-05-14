@@ -1,0 +1,45 @@
+﻿Kood;Amet;Üldine_tähis
+01;Sõjaväe ohvitserid;0
+02;Sõjaväe allohvitserid;0
+03;Sõjaväe reakoosseis;0
+11;Seadusandjad kõrgemad ametnikud ja juhid;1
+12;Juhid äri- ja haldusalal;1
+13;Juhid tegevusalade järgi;1
+14;Juhid majutuses toitlustuses kaubanduses ja muid teenuseid osutavates asutustes;1
+21;Loodus- ja tehnikateaduste tippspetsialistid;2
+22;Tervishoiu tippspetsialistid;2
+23;Pedagoogika tippspetsialistid;2
+24;Äri- ja haldusala tippspetsialistid;2
+25;Info- ja kommunikatsioonitehnoloogia tippspetsialistid;2
+26;Õigus- sotsiaal- ja kultuurivaldkonna tippspetsialistid;2
+31;Loodus- ja inseneriteaduste keskastme spetsialistid;3
+32;Tervishoiu keskastme spetsialistid;3
+33;Äri- ja haldusalal töötavad keskastme spetsialistid;3
+34;Õigus- sotsiaal- kultuuri- jms alade keskastme spetsialistid;3
+35;Info- ja kommunikatsioonitehnoloogia tehnilised töötajad;3
+41;Lihtametnikud ja arvutiametnikud;4
+42;Klienditeenindajad;4
+43;Arve- ja laoametnikud;4
+44;Muud teenindusala lihtametnikud;4
+51;Isikuteenindajad;5
+52;Müüjad;5
+53;Isikuhooldustöötajad;5
+54;Kaitseteenindajad;5
+61;Turule orienteeritud aia- ja põllusaaduste kasvatajad;6
+62;Turule orienteeritud metsanduse kalanduse ja jahinduse oskustöötajad;6
+63;Ainult oma tarbeks talupidamise kalapüügi jahi ning metsasaaduste korjamisega tegelevad isikud;6
+71;Ehitustöölised v.a elektrikud;7
+72;Metallitöötluse masinaehituse jms alade oskustöötajad;7
+73;Käsitöölised ja trükitöötajad;7
+74;Elektri- ja elektroonikatööstuse töötajad;7
+75;Toiduainete ja puidutöötlejad rõivatööstuse ja muude käsitööalade töötajad;7
+81;Seadme- ja masinaoperaatorid;8
+82;Koostajad;8
+83;Mootorsõidukite ja liikurmasinate juhid;8
+91;Koristajad ja abilised;9
+92;Lihttöölised põllumajanduses metsanduses ja kalanduses;9
+93;Mäe- ehitus- tootmis- ja veonduslihttöölised;9
+94;Toitlustuse abitöölised;9
+95;Tänaval jms kohtades teenuse osutajad;9
+96;Prügivedajad jms lihttöölised;9
+99;Määratlemata;99

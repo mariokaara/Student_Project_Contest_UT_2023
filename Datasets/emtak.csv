@@ -1,0 +1,91 @@
+﻿Kood;Nimetus;Üldine_tähis
+01;Taime- ja loomakasvatus  jahindus ja neid teenindavad tegevusalad ;A
+02;Metsamajandus ja metsavarumine  ;A
+03;Kalapüük ja vesiviljelus  ;A
+05;Kivi- ja pruunsöe kaevandamine  ;B
+06;Toornafta ja maagaasi tootmine  ;B
+07;Metallimaakide kaevandamine  ;B
+08;Muu kaevandamine  ;B
+09;Kaevandamist abistavad tegevusalad  ;B
+10;Toiduainete tootmine  ;C
+11;Joogitootmine  ;C
+12;Tubakatoodete tootmine  ;C
+13;Tekstiilitootmine  ;C
+14;Rõivatootmine  ;C
+15;Nahatöötlemine ja nahktoodete tootmine  ;C
+16;Puidutöötlemine ning puit- ja korktoodete tootmine  v.a mööbel ;C
+17;Paberi ja pabertoodete tootmine  ;C
+18;Trükindus ja salvestiste paljundus  ;C
+19;Koksi ja puhastatud naftatoodete tootmine  ;C
+20;Kemikaalide ja keemiatoodete tootmine  ;C
+21;Põhifarmaatsiatoodete ja ravimpreparaatide tootmine  ;C
+22;Kummi- ja plasttoodete tootmine  ;C
+23;Muude mittemetalsetest mineraalidest toodete tootmine  ;C
+24;Metallitootmine  ;C
+25;Metalltoodete tootmine  v.a masinad ja seadmed ;C
+26;Arvutite  elektroonika- ja optikaseadmete tootmine ;C
+27;Elektriseadmete tootmine  ;C
+28;Mujal liigitamata masinate ja seadmete tootmine  ;C
+29;Mootorsõidukite  haagiste ja poolhaagiste tootmine ;C
+30;Muude transpordivahendite tootmine  ;C
+31;Mööblitootmine  ;C
+32;Muu tootmine  ;C
+33;Masinate ja seadmete remont ja paigaldus  ;C
+35;Elektrienergia  gaasi  auru ja konditsioneeritud õhuga varustamine;D
+36;Veekogumine  -töötlus ja -varustus ;E
+37;Kanalisatsioon  ;E
+38;Jäätmekogumine  -töötlus ja -kõrvaldus ;E
+39;Saastekäitlus ja muud jäätmekäitlustegevused  ;E
+41;Hoonete ehitus  ;F
+42;Rajatiste ehitus  ;F
+43;Eriehitustööd  ;F
+45;Mootorsõidukite ja mootorrataste hulgi- ja jaemüük ning remont  ;G
+46;Hulgikaubandus  v.a mootorsõidukid ja mootorrattad ;G
+47;Jaekaubandus  v.a mootorsõidukid ja mootorrattad ;G
+49;Maismaaveondus ja torutransport  ;H
+50;Veetransport  ;H
+51;Õhutransport  ;H
+52;Laondus ja veondust abistavad tegevusalad  ;H
+53;Posti- ja kullerteenus  ;H
+55;Majutus  ;I
+56;Toidu ja joogi serveerimine  ;I
+58;Kirjastamine  ;J
+59;Kinofilmide  videote ja telesaadete tootmine ;J
+60;Meediateenused  ;J
+61;Elektroonilise side teenus  ;J
+62;Programmeerimine  konsultatsioonid jms tegevused ;J
+63;Infoalane tegevus  ;J
+64;Finantsteenuste osutamine  v.a kindlustus ja pensionifondid ;K
+65;Kindlustus  edasikindlustus ja pensionifondid  v.a kohustuslik sotsiaalkindlustus;K
+66;Finantsteenuste ja kindlustustegevuse abitegevusalad  ;K
+68;Kinnisvaraalane tegevus  ;L
+69;Juriidilised toimingud ja arvepidamine  ;M
+70;Peakontorite tegevus  ;M
+71;Arhitekti- ja inseneritegevused  ;M
+72;Mitteraudmetallide maakide kaevandamine  ;M
+72;Teadus- ja arendustegevus  ;M
+73;Reklaamindus ja turu-uuringud  ;M
+74;Muu kutse-  teadus- ja tehnikaalane tegevus ;M
+75;Veterinaaria  ;M
+77;Rentimine ja kasutusrent  ;N
+78;Tööhõive  ;N
+79;Reisibüroode ja reisikorraldajate tegevus  reserveerimine ning sellega seotud tegevus ;N
+80;Turvatöö ja juurdlus  ;N
+81;Hoonete ja maastike hooldus  ;N
+82;Büroohaldus  büroode ja muu äritegevuse abitegevused ;N
+83;Jaekaubandus  v.a mootorsõidukid ja mootorrattad ;G
+84;Avalik haldus ja riigikaitse  ;O
+85;Haridus  ;P
+86;Tervishoid  ;Q
+87;Hoolekandeasutuste tegevus  ;Q
+88;Sotsiaalhoolekanne majutuseta  ;Q
+90;Loome-  kunsti- ja meelelahutustegevus ;R
+91;Raamatukogude  arhiivide  muuseumide ja muude kultuuriasutuste tegevus;R
+92;Hasartmängude ja kihlvedude korraldamine  ;R
+93;Sporditegevus ning lõbustus- ja vaba aja tegevused  ;R
+94;Organisatsioonide tegevus  ;S
+95;Arvutite ning tarbeesemete ja kodutarvete parandus  ;S
+96;Muu teenindus  ;S
+97;Kodumajapidamised majapidamispersonali tööandjana  ;T
+98;Kodumajapidamiste oma tarbeks mõeldud eristamata kaupade tootmine ja teenuste osutamine  ;T
+99;Eksterritoriaalsete organisatsioonide ja üksuste tegevus  ;U
